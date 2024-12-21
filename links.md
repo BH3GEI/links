@@ -2,7 +2,7 @@
 
 [Word2MD](https://bh3gei.github.io/Word2MD/) [icon](https://bh3gei.github.io/Word2MD/favicon.ico)
 
-[Markdown Renderer](https://bh3gei.github.io/MarkdownRenderer/) [icon](https://bh3gei.github.io/MarkdownRenderer/favicon.ico)
+[Markdown Renderer](https://bh3gei.github.io/MarkdownRenderer/) [icon](https://github.com/Python-Markdown.png?size=40)
 
 [Cloudflare Proxy](https://stratoproxy.stratosphericus.workers.dev/) [icon](https://www.google.com/chrome/static/images/chrome-logo-m100.svg)
 
