@@ -1,4 +1,4 @@
-[**Yao's Homepage**](https://bh3gei.github.io/) [icon](https://bh3gei.github.io/avatar.png)
+[**Yao's Homepage**](https://bh3gei.github.io/) [icon](https://avatars.githubusercontent.com/u/58540850)
 
 
 [Word2MD](https://bh3gei.github.io/Word2MD/) [icon](https://bh3gei.github.io/Word2MD/favicon.ico)
