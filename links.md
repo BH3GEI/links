@@ -1,6 +1,6 @@
 [**Yao's Homepage**](https://bh3gei.github.io/) [icon](https://avatars.githubusercontent.com/u/58540850)
 
-[Word2MD](https://bh3gei.github.io/Word2MD/) [icon](https://bh3gei.github.io/Word2MD/favicon.ico)
+[Word2MD](https://bh3gei.github.io/Word2MD/) [icon](https://github.com/Python-Markdown.png)
 
 [Markdown Renderer](https://bh3gei.github.io/MarkdownRenderer/) [icon](https://github.com/Python-Markdown.png)
 
